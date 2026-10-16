@@ -1,0 +1,10 @@
+.sih-spell-gif {
+    margin-top: .5rem;
+    text-align: center
+}
+
+.sih-spell-gif img {
+    max-width: 100%;
+    height: auto;
+    border: none
+}
